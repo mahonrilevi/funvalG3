@@ -1,12 +1,41 @@
-ul, h2  {
-    display: flex;
-    gap: 10px;
-    
-
-
+.hhh {
+   
+    width: 200px;
+   
 }
-ol {
-    display: flex;
+
+h3 {
+    color: blue;
+    font-size: medium;
+    text-align: center;
     align-items: center;
-    justify-content: space-betweens;
+
 }
+
+ ol, li {
+    text-align: center;
+   
+}
+
+ol {
+     text-align: center;
+     display: flex;
+     gap: 20px;
+     margin: 10px 500px;
+     align-items: center;
+     justify-content: space-between;
+
+}
+
+ul {
+   list-style: none;
+}
+h2 {
+    color: blue;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(169, 245, 98);
+}
+
